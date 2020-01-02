@@ -6,3 +6,4 @@ Add a new line to this file.
 Add another line.
 The third line.
 test fast-forward
+test slash
